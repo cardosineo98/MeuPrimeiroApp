@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Meu Primeiro App</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Senha</string>
+    <string name="action_sign_in" translatable="false">Entrar ou Realizar Cadastro</string>
+    <string name="action_sign_in_short" translatable="false">Entrar</string>
+    <string name="welcome" translatable="false">"Bem Vindo!"</string>
+    <string name="invalid_username" translatable="false">Usuário Não Valido</string>
+    <string name="invalid_password" translatable="false">A Senha deve conter mais de 5 caracteres</string>
+    <string name="login_failed" translatable="false">"Falha no Login"</string>
+</resources>
